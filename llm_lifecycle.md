@@ -1,5 +1,5 @@
 
-### **LLM Lifecycle **
+### **LLM Lifecycle**
 
 #### **1. Data Collection and Preparation**
    - **Description**: Gather and preprocess the data required for training the LLM. This includes collecting relevant text data, cleaning it, and formatting it appropriately.
